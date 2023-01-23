@@ -161,6 +161,12 @@ C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcorea
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Settings\Index.cshtml.g.cs
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -173,9 +179,3 @@ C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcorea
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\WebApp.Strategy.dll
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\WebApp.Strategy.pdb
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\WebApp.Strategy.genruntimeconfig.cache
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Strategy\obj\Debug\netcoreapp3.1\Razor\Views\Settings\Index.cshtml.g.cs

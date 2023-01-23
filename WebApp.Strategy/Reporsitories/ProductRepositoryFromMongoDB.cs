@@ -8,14 +8,18 @@ using WebApp.Strategy.csproj.Models;
 
 namespace WebApp.Strategy.Reporsitories
 {
-    public class ProductRepositoryFromMongoDB : IProductRepository
+    public class ProductRepositoryFromMongoDb : IProductRepository
     {
         private readonly IMongoCollection<Product> _productCollection;
-        public ProductRepositoryFromMongoDB(IConfiguration configuration)
+
+        public ProductRepositoryFromMongoDb(IConfiguration configuration)
         {
             var connectionString = configuration.GetConnectionString("MongoDb");
+
             var client = new MongoClient(connectionString);
+
             var database = client.GetDatabase("ProductDb");
+
             _productCollection = database.GetCollection<Product>("Products");
         }
 
@@ -31,18 +35,19 @@ namespace WebApp.Strategy.Reporsitories
 
         public async Task<Product> GetById(string id)
         {
-            return await _productCollection.Find(x => x.UserId == id).FirstOrDefaultAsync();
+            return await _productCollection.Find(x => x.Id == id).FirstOrDefaultAsync();
         }
 
         public async Task<Product> Save(Product product)
         {
             await _productCollection.InsertOneAsync(product);
+
             return product;
         }
 
         public async Task Update(Product product)
         {
-            await _productCollection.FindOneAndReplaceAsync(x => x.Id == product.Id,product);
+            await _productCollection.FindOneAndReplaceAsync(x => x.Id == product.Id, product);
         }
     }
 }
