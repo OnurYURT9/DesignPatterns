@@ -125,7 +125,6 @@ C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\bin\Debug\netcorea
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.csproj.AssemblyReference.cache
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.AssemblyInfoInputs.cache
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.AssemblyInfo.cs
@@ -154,3 +153,4 @@ C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcorea
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.dll
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.pdb
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.genruntimeconfig.cache
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Template\obj\Debug\netcoreapp3.1\WebApp.Template.csproj.AssemblyReference.cache
