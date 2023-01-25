@@ -169,3 +169,4 @@ C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Command\bin\Debug\netcoreap
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Command\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Command\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
 C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Command\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\ONUR\source\repos\UdemyDesignPattern\WebApp.Command\bin\Debug\netcoreapp3.1\libwkhtmltox.dll
