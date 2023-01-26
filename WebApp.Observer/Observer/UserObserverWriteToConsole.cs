@@ -22,7 +22,7 @@ namespace WebApp.Observer.Observer
         public void UserCreated(AppUser appUser)
         {
             var logger = _serviceProvider.GetRequiredService<ILogger<UserObserverWriteToConsole>>();
-            logger.LogInformation($"user created: Id:{appUser.Id}");
+            logger.LogInformation($"user created: Id = {appUser.Id}");
            
         }
     }
